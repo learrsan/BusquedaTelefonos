@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="41a4f926-9d6b-4e3d-a11b-ebbc388d4e9c" solutionId="41a4f926-9d6b-4e3d-a11b-ebbc388d4e9c" resetWebServer="false" sharePointProductVersion="15.0" name="BusquedasTelefonos" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="4af48835-24f9-4553-9053-f0ce76ed9991" />
+  </features>
+</package>
